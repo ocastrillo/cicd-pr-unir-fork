@@ -1,0 +1,5 @@
+INFO:root:Se leerán las palabras del fichero words.txt
+INFO:root:Lista original: 
+INFO:root:['Actividad', 'Unir', 'Palabras', 'Actividad', 'Duplicadas', 'Duplicadas', 'Unir', 'Fichero', 'Actividad', 'Duplicadas', 'Omar']
+INFO:root:Lista ordenada luego de eliminar duplicados: 
+INFO:root:['Actividad', 'Duplicadas', 'Fichero', 'Omar', 'Palabras', 'Unir']
